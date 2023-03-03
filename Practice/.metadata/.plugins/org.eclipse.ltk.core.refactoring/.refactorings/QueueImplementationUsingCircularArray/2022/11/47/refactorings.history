@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;queueimplementationusingcirculararray.FixedSizedArrayQueue.java&apos; to &apos;FixedSizeArrayQueue.java&apos;&#x0D;&#x0A;- Original project: &apos;QueueImplementationUsingCircularArray&apos;&#x0D;&#x0A;- Original element: &apos;queueimplementationusingcirculararray.FixedSizedArrayQueue.java&apos;&#x0D;&#x0A;- Renamed element: &apos;queueimplementationusingcirculararray.FixedSizeArrayQueue.java&apos;" description="Rename compilation unit &apos;FixedSizedArrayQueue.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;queueimplementationusingcirculararray{FixedSizedArrayQueue.java" name="FixedSizeArrayQueue.java" references="false" stamp="1668458768146" version="1.0"/>
+</session>

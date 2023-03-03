@@ -1,0 +1,7 @@
+127.0.0.1 - - [04/Jan/2023:12:25:45 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:12:25:45 -0500] "GET /LoginandLogout_Example/ HTTP/1.1" 200 224
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:12:25:45 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:12:25:49 -0500] "GET /LoginandLogout_Example/login.html HTTP/1.1" 200 571
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:12:25:49 -0500] "GET /LoginandLogout_Example/images/img.jpg HTTP/1.1" 404 796
+127.0.0.1 - - [04/Jan/2023:14:52:53 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:14:52:53 -0500] "GET /CustomerManager/ HTTP/1.1" 500 16819

@@ -1,0 +1,17 @@
+package com.ust;
+import java.util.Scanner;
+//write a method that accepts two strings and returns the total number of characters of the combined string (ie. the length)
+public class MethodsPracticeOct13_5 {
+
+	public static void main(String[] args) {
+		String line1 = "cassey";
+		int name = 0;
+		for (int a=0; a<line.length(); a++) {
+			char letter = line.charAt(a);
+			
+		}
+	}
+	public static int isTotalValue (char cassey, hart) {
+		String line2 = "hart";
+}
+}

@@ -1,0 +1,23 @@
+package com.ust;
+//Write a value-returning method, isVowel that accepts a char parameter and returns true if a given character is a vowel, and otherwise returns false
+//Within the main() method, accept a String parameter from user and count number of vowels in that string
+public class MethodsPractice_6 {
+
+	public static void main(String[] args) {
+	}
+	public static boolean isVowel (char letter) {
+		String vowel = "AEIOUY";
+		boolean result = false;
+		int idx = 0;
+		while (idx< vowel.length()) {
+			char vletter = vowel.charAt(idx);
+			if (vletter == letter) {
+				result = true;
+				break;
+			}
+			idx++;
+		}
+		return result;
+	}
+
+}

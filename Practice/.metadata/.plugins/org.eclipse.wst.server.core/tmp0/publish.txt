@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jan 05 15:02:16 EST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\CasseyHart\\.m2\\repository\\org\\springframework\\spring-web\\5.1.5.RELEASE\\spring-web-5.1.5.RELEASE.jar=WEB-INF/lib/spring-web-5.1.5.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\CasseyHart\\.m2\\repository\\org\\springframework\\spring-web\\4.2.1.RELEASE\\spring-web-4.2.1.RELEASE.jar=WEB-INF/lib/spring-web-4.2.1.RELEASE.jar

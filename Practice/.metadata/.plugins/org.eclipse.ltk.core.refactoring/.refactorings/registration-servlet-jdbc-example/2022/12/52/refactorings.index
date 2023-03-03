@@ -1,0 +1,12 @@
+1671638639858	Delete element
+1671639207994	Rename package 'registration_servlet_jdbc_example'
+1671639414856	Rename resource 'index.html'
+1671640127802	Rename package 'net.javaguides.registration.model'
+1671640166040	Rename package 'net.javaguides.registration.model.Employee'
+1671642170107	Move compilation unit
+1671648039571	Rename package 'net.javaguides.registration.model'
+1671648124293	Rename package 'net.javaguides.registration.dao'
+1671648247758	Rename package 'net.javaguides.registration.controller'
+1671648696563	Rename package 'net.javaguides.jsp.jdbc.bean'
+1671648736246	Rename package 'net.javaguides.jsp.jdbc.database'
+1671648934526	Rename resource 'employeedetails.jsp'

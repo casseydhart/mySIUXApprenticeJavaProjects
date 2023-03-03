@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author CasseyHart
+ *
+ */
+module CreatingYourOwnExceptionClasses {
+}

@@ -1,0 +1,32 @@
+package com.ust;
+//
+public class ObjectsPracticeOct14_3 {
+
+	public static void main(String[] args) {
+		Dog d1 = new Dog();
+			d1.name = "Tucker";
+			d1.breed = "Boston Terrier";
+			d1.sit();
+			d1.bark();
+		
+		Dog d2 = new Dog();
+			d2.name = "Sally";
+			d2.breed = "Huskie";
+			d2.sit();
+			d2.bark();
+	}
+
+}
+class Dog {
+	public String name;
+	
+	public String breed;
+	
+	public void sit( ) {
+		System.out.println(name + " " + breed + " "+ "sit");
+	}
+	public void bark( ) {
+		System.out.println(name + " " + breed +" "+ "bark" );
+	}
+	
+}

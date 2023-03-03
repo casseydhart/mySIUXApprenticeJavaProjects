@@ -1,0 +1,8 @@
+package com.in28minutes_oops;
+
+public class Book {
+	void open() {
+		System.out.println("Open book");
+	}
+
+}

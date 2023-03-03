@@ -1,0 +1,17 @@
+package com.ust;
+//Karl example
+//write a method that accepts and age and returns true if the age is >= 21
+//Test a true and a false condition
+public class MethodsPracticeOct13_4 {
+
+	public static void main(String[] args) {
+		boolean a = legalAge(21);
+		System.out.println("The age 31 and up is:" + a);
+
+	}
+	public static boolean legalAge(int a) {
+		boolean age = (a >= 21);
+		return age;
+	}
+	
+}

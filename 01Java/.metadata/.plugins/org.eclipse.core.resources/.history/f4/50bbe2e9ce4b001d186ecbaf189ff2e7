@@ -1,0 +1,16 @@
+package com.ust;
+import java.util.Scanner;
+//write a method that accepts two strings and returns the total number of characters of the combined string (ie. the length)
+public class MethodsPracticeOct13_5 {
+
+	public static void main(String[] args) {
+		int len = clenght("jack" , "jill");
+		System.out.println("tom", "jerry");
+		len = clength("tom + jerry =" + len);
+		System.out.println("tom + jerry" + len);
+	}
+	public static int clenght(String first, String second) {
+		int len = first.length() + second.length();
+		return len;
+	}
+}

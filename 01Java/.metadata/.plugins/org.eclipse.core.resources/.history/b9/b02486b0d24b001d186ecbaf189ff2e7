@@ -1,0 +1,12 @@
+package com.ust;
+//Homework Question 3
+//Write a looper method which accepts a string message and a number of loops.  
+//Within the method use a while loop to outputs the message the entered number of times
+public class MethodsPracticeOct13_6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

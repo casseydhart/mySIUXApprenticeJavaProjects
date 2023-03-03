@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+			<item value="org.eclipse.ui.Examples"/>
+		</list>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\CasseyHart\OneDrive - Xpanxion\Desktop\CAPSTONE PROJECT\Reviewer File"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\test\java\net\emergentdevelopers\springboot"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\security\services"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\security\jwt"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\security"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\response"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\request"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\repository"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\model"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\exception"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC\src\main\java\net\emergentdevelopers\springboot\controller"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item key="allPersp" value="false"/>
+		<item key="sort" value="0"/>
+		<list key="bounds">
+			<item value="315"/>
+			<item value="1"/>
+			<item value="1006"/>
+			<item value="693"/>
+		</list>
+		<list key="columns">
+			<item value="318"/>
+			<item value="638"/>
+		</list>
+	</section>
+</section>

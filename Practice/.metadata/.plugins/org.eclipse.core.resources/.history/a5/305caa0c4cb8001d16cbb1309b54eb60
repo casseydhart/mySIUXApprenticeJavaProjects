@@ -1,0 +1,8 @@
+package com.in28minutes_oops;
+
+public class MotorBike {
+	void start() {
+		System.out.println("Start engine");
+
+}
+}

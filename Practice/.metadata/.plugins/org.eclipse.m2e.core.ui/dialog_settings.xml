@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Workspace\Practice\LoginandLogout_Example"/>
+			<item value="C:\Workspace\Practice\SpringWeb"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="net.codejava"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="CustomerManager"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="8.0.0"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="springboot-backend-main"/>
+			<item value="REST_API_Using_Maven_Spring_Boot"/>
+			<item value="REST_API_Using_Java_Spring_Boot"/>
+			<item value="SpringRestHibernaterExample"/>
+			<item value="net.codejava"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springboot-backend-main"/>
+			<item value="REST_API_Using_Maven_Spring_Boot"/>
+			<item value="REST_API_Using_Java_Spring_Boot"/>
+			<item value="SpringRestHibernaterExample"/>
+			<item value="CustomerManager"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\CasseyHart\Downloads\Capstone Final\Capstone Final\springboot-backend-main (3)\springboot-backend-main"/>
+			<item value="C:\Users\CasseyHart\Downloads\Capstone Project-I9\springboot-backend-main"/>
+			<item value="C:\Users\CasseyHart\Downloads\CAPSTONE DEMO\springboot-backend-main"/>
+			<item value="C:\Users\CasseyHart\Downloads\CAPSTONE DEMO\Capstone-backend\Capstone-backend\src"/>
+			<item value="C:\Users\CasseyHart\Downloads\React-Hooks-Spring-Boot-CRUD-Full-Stack-App-main\React-Hooks-Spring-Boot-CRUD-Full-Stack-App-main\v1springboot-back"/>
+			<item value="C:\Users\CasseyHart\Downloads\React-Hooks-Spring-Boot-CRUD-Full-Stack-App-main\React-Hooks-Spring-Boot-CRUD-Full-Stack-App-main\springboot-backend"/>
+			<item value="C:\Users\CasseyHart\Downloads\Test3\Test3"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)\springboot_backend-main_LC"/>
+			<item value="C:\Users\CasseyHart\OneDrive - Xpanxion\Desktop\CAPSTONE PROJECT\springboot_backend-main_LC(1)"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot_backend-main_LC(1)"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot-backend-main_LC(1)\springboot-backend-main_LC"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot-backend-main_LC(1)\springboot-backend-main"/>
+			<item value="C:\Users\CasseyHart\Downloads\My-tests\My-tests\springboot-backend-main-GD"/>
+			<item value="C:\Users\CasseyHart\Downloads\My-tests"/>
+			<item value="C:\Users\CasseyHart\Downloads\springboot-backend-main"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
